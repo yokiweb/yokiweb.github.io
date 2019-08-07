@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>古月哥欠的Fan</title>
+  
+  <subtitle>人生是一场难得的旅行。不要轻易交卷^_^</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.yokiweb.com/"/>
+  <updated>2019-08-07T10:35:06.340Z</updated>
+  <id>http://www.yokiweb.com/</id>
+  
+  <author>
+    <name>Yoki-海狗</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown语法学习</title>
+    <link href="http://www.yokiweb.com/posts/7f5ds4f5.html"/>
+    <id>http://www.yokiweb.com/posts/7f5ds4f5.html</id>
+    <published>2019-06-19T06:21:00.000Z</published>
+    <updated>2019-08-07T10:35:06.340Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="古月哥欠的Fan"><a href="#古月哥欠的Fan" class="headerlink" title="古月哥欠的Fan"></a><strong>古月哥欠的Fan</strong></h1><h2 id="网站链接：www-yokiweb-top"><a href="#网站链接：www-yokiweb-top" class="headerlink" title="网站链接：www.yokiweb.top"></a><em>网站链接：<a href="http://www.yokiweb.top" target="_blank" rel="noopener">www.yokiweb.top</a></em></h2><hr><ul><li><strong>关于网站</strong><h3 id="QQ：1782428344"><a href="#QQ：1782428344" class="headerlink" title="QQ：1782428344"></a>QQ：1782428344</h3><h3 id="微信：没有。。"><a href="#微信：没有。。" class="headerlink" title="微信：没有。。"></a>微信：没有。。</h3></li></ul><p>一、基本符号：* - +. &gt;<br>基本上所有的markdown标记都是基于这四个符号或组合，需要注意的是，如果以基本符号开头的标记，注意基本符号后有一个用于分割标记符和内容的空格。<br>二、标题<br>1.前面带#号，后面带文字，分别表示h1-h6,只到h6，而且h1下面会有一条横线</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>2.相当于标签闭合</p><h1 id="一级标题-1"><a href="#一级标题-1" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题-1"><a href="#二级标题-1" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题-1"><a href="#三级标题-1" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题-1"><a href="#四级标题-1" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题-1"><a href="#五级标题-1" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题-1"><a href="#六级标题-1" class="headerlink" title="六级标题"></a>六级标题</h6><p>三、列表</p><p>无序列表</p><p>//形式一</p><ul><li>a</li><li>b</li><li>c<br>//形式二</li></ul><ul><li>d</li><li>e</li><li>f<br>//形式三</li></ul><ul><li>g</li><li>h</li><li>i</li></ul><p>以上三种形式，效果其实都是一样的：</p><p>无序列表.png</p><p>有序列表</p><p>//正常形式</p><ol><li>abc</li><li>bcd</li><li>cde<br>//错序效果</li><li>fgh</li><li>ghi</li><li>hij<br>嵌套列表</li></ol><p>//无序列表嵌套</p><ul><li>123<ul><li>abc</li><li>bcd</li><li>cde</li></ul></li><li>465</li><li>789<br>//有序列表嵌套</li></ul><ol><li>abcd<ol><li>abcde</li><li>abcde</li><li>abcde</li></ol></li><li>bcde</li><li>cdef<br>列表可以嵌套，使用时在嵌套列表前按 tab 或 空格 来缩进,去控制列表的层数</li></ol><p>四、引用说明区块<br>对某个部分做的内容做一些说明或者引用某某的话等，可以用这个语法。</p><p>正常形式</p><blockquote><p>引用内容、说明内容。在语句前面加一个 &gt; ，注意是英文的那个右尖括号，注意空格，引用因为是一个区块，理论上是应该什么内容都可以放，比如说：标题，列表，引用等等。</p></blockquote><p>嵌套区块<br>这里我只介绍一下我常用的方法，也是个人认为比较规范的一种方法，就是给区块的下一级区块多加一个右尖括号</p><blockquote><p>一级引用</p><blockquote><p>二级引用</p><blockquote><p>三级引用</p><blockquote><p>四级引用</p><blockquote><p>五级引用</p><blockquote><p>六级引用</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote><p>五、代码块<br>在发布一些技术文章会涉及展示代码的问题，这时候代码块就显得尤为重要。</p><p>少量代码，单行使用，直接用`包裹起来就行了</p><p><code>shaoliangdaima,danhangshiyong</code></p><p>大量代码，需要多行使用，用<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure></p><pre><code>    daliangdaima,xuyaoduohangshiyong    daliangdaima,xuyaoduohangshiyong    daliangdaima,xuyaoduohangshiyong    daliangdaima,xuyaoduohangshiyong    daliangdaima,xuyaoduohangshiyong```</code></pre><p>六、链接</p><p>行内式<br>链接的文字放在[]中，链接地址放在随后的()中，链接也可以带title属性，链接地址后面空一格，然后用引号引起来</p><p>参数式<br>链接的文字放在[]中，链接地址放在随后的:后，链接地址后面空一格，然后用引号引起来</p><p>八、分割线</p><h2 id="分割线可以由-（星号，减号，底线）这3个符号的至少3个符号表示，注意至少要3个，且不需要连续，有空格也可以"><a href="#分割线可以由-（星号，减号，底线）这3个符号的至少3个符号表示，注意至少要3个，且不需要连续，有空格也可以" class="headerlink" title="分割线可以由* - _（星号，减号，底线）这3个符号的至少3个符号表示，注意至少要3个，且不需要连续，有空格也可以"></a>分割线可以由* - _（星号，减号，底线）这3个符号的至少3个符号表示，注意至少要3个，且不需要连续，有空格也可以</h2><hr><hr><hr><p>九、其他</p><p>强调字体<br>一个星号或者是一个下划线包起来，会转换为<em>倾斜，如果是2个，会转换为<strong>加粗</strong></em></p><p><em>md</em><br><strong>md</strong><br><em>md</em><br> <strong>md</strong></p><p>\<br>*<br>+<br>-<br>`<br>_</p><p>十、表格<br>//例子一<br>|123|234|345|<br>|:-|:-:|-:|<br>|abc|bcd|cde|<br>|abc|bcd|cde|<br>|abc|bcd|cde|<br>//例子二<br>|123|234|345|<br>|:—|:—:|—:|<br>|abc|bcd|cde|<br>|abc|bcd|cde|<br>|abc|bcd|cde|<br>//例子三<br>123|234|345<br>:-|:-:|-:<br>abc|bcd|cde<br>abc|bcd|cde<br>abc|bcd|cde</p><p>上面三个例子的效果一样，由此可得：</p><ol><li>表格的格式不一定要对的非常起，但是为了良好的变成风格，尽量对齐是最好的</li><li>分割线后面的冒号表示对齐方式，写在左边表示左对齐，右边为右对齐，两边都写表示居中</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;古月哥欠的Fan&quot;&gt;&lt;a href=&quot;#古月哥欠的Fan&quot; class=&quot;headerlink&quot; title=&quot;古月哥欠的Fan&quot;&gt;&lt;/a&gt;&lt;strong&gt;古月哥欠的Fan&lt;/strong&gt;&lt;/h1&gt;&lt;h2 id=&quot;网站链接：www-yokiweb-top&quot;&gt;&lt;a
+      
+    
+    </summary>
+    
+      <category term="Blog" scheme="http://www.yokiweb.com/categories/Blog/"/>
+    
+      <category term="hexo" scheme="http://www.yokiweb.com/categories/Blog/hexo/"/>
+    
+    
+      <category term="格桑平措" scheme="http://www.yokiweb.com/tags/%E6%A0%BC%E6%A1%91%E5%B9%B3%E6%8E%AA/"/>
+    
+      <category term="海狗" scheme="http://www.yokiweb.com/tags/%E6%B5%B7%E7%8B%97/"/>
+    
+      <category term="Yoki" scheme="http://www.yokiweb.com/tags/Yoki/"/>
+    
+      <category term="首页" scheme="http://www.yokiweb.com/tags/%E9%A6%96%E9%A1%B5/"/>
+    
+      <category term="胡歌" scheme="http://www.yokiweb.com/tags/%E8%83%A1%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>肖申克的救赎</title>
+    <link href="http://www.yokiweb.com/posts/7372dac5.html"/>
+    <id>http://www.yokiweb.com/posts/7372dac5.html</id>
+    <published>2019-06-12T06:21:00.000Z</published>
+    <updated>2019-08-07T10:38:54.917Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一、首先，做个自我介绍"><a href="#一、首先，做个自我介绍" class="headerlink" title="一、首先，做个自我介绍"></a>一、<strong><em>首先</em></strong>，做个自我介绍</h1><p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558805034545&di=9b6135d5bc2f14800e917db96966a933&imgtype=0&src=http://hbimg.b0.upaiyun.com/59f4f95a27ad416bf283dee0d6dd3d82e0ab0d3329c32-Bvk0tc_fw658" alt="45"></p><p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558805034544&di=ee831cb5b21b0c744216626d4d5a3231&imgtype=0&src=http://n.sinaimg.cn/sinacn08/238/w640h398/20180611/c5e8-hcufqif6671305.jpg" alt="ds"></p><h2 id="1-😁😁开个玩笑，我是海狗。而胡歌是我的男神哈。这个网站呢，是以胡歌的粉丝身份命名的古月哥欠的Fan。"><a href="#1-😁😁开个玩笑，我是海狗。而胡歌是我的男神哈。这个网站呢，是以胡歌的粉丝身份命名的古月哥欠的Fan。" class="headerlink" title="1.😁😁开个玩笑，我是海狗。而胡歌是我的男神哈。这个网站呢，是以胡歌的粉丝身份命名的古月哥欠的Fan。"></a>1.😁😁开个玩笑，我是海狗。而胡歌是我的男神哈。这个网站呢，是以胡歌的粉丝身份命名的<strong>古月哥欠的Fan</strong>。</h2><h1 id="二、但是"><a href="#二、但是" class="headerlink" title="二、但是"></a>二、但是</h1><h2 id="这个网站是为了学习node-js的，至于内容嘛，也不想像其他大佬一样做成一个教程Ⅹ的博客。那我就做一个关于胡歌的网站吧。"><a href="#这个网站是为了学习node-js的，至于内容嘛，也不想像其他大佬一样做成一个教程Ⅹ的博客。那我就做一个关于胡歌的网站吧。" class="headerlink" title="这个网站是为了学习node.js的，至于内容嘛，也不想像其他大佬一样做成一个教程Ⅹ的博客。那我就做一个关于胡歌的网站吧。"></a>这个网站是为了学习node.js的，至于内容嘛，也不想像其他大佬一样做成一个教程Ⅹ的博客。那我就做一个关于胡歌的网站吧。</h2><table><thead><tr><th align="left">👈</th><th align="center">👈</th><th align="right">👈</th></tr></thead><tbody><tr><td align="left">👉</td><td align="center">🖕</td><td align="right">👆</td></tr><tr><td align="left">🖕</td><td align="center">👉</td><td align="right">🖕</td></tr><tr><td align="left">👆</td><td align="center">🖕</td><td align="right">👉</td></tr></tbody></table><h1 id="三、海狗"><a href="#三、海狗" class="headerlink" title="三、海狗"></a>三、海狗</h1><h1 id="1-海狗-Yaigou"><a href="#1-海狗-Yaigou" class="headerlink" title="1. 海狗-Yaigou"></a>1. 海狗-Yaigou</h1><blockquote><p>大海里的狗。哈哈哈<strong>😎😎</strong></p><blockquote><p>一の大学狗子括弧-即将毕业</p><blockquote><p>技术宅</p><blockquote><p>酷安基佬</p><blockquote><p>单身的</p><blockquote><p>Yoki（笔名）</p><blockquote><p>格桑平措（藏名）</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote><h1 id="四、Nothing"><a href="#四、Nothing" class="headerlink" title="四、Nothing"></a>四、Nothing</h1><p>&lt;<img src alt></p><blockquote><p>哦呼~</p></blockquote><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;一、首先，做个自我介绍&quot;&gt;&lt;a href=&quot;#一、首先，做个自我介绍&quot; class=&quot;headerlink&quot; title=&quot;一、首先，做个自我介绍&quot;&gt;&lt;/a&gt;一、&lt;strong&gt;&lt;em&gt;首先&lt;/em&gt;&lt;/strong&gt;，做个自我介绍&lt;/h1&gt;&lt;p&gt;&lt;img src
+      
+    
+    </summary>
+    
+      <category term="救赎" scheme="http://www.yokiweb.com/categories/%E6%95%91%E8%B5%8E/"/>
+    
+    
+      <category term="格桑平措" scheme="http://www.yokiweb.com/tags/%E6%A0%BC%E6%A1%91%E5%B9%B3%E6%8E%AA/"/>
+    
+  </entry>
+  
+</feed>
