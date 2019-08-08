@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yokiweb.com/"/>
-  <updated>2019-08-08T05:28:43.471Z</updated>
+  <updated>2019-08-08T05:36:34.631Z</updated>
   <id>http://www.yokiweb.com/</id>
   
   <author>
@@ -17,30 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>日常更新维护1</title>
     <link href="http://www.yokiweb.com/posts/undefined.html"/>
     <id>http://www.yokiweb.com/posts/undefined.html</id>
-    <published>2019-08-08T04:10:06.592Z</published>
-    <updated>2019-08-08T05:28:43.471Z</updated>
+    <published>2019-08-08T04:10:06.000Z</published>
+    <updated>2019-08-08T05:36:34.631Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>title: 日常更新维护1<br>date: 2019-08-08 12:10:06<br>tags:</p><ul><li>格桑平措</li><li>Hexo</li><li>Blog</li><li>md<br>categories:<ul><li>Blog</li><li>hexo<br>copyright: true<br>comments: true<br>description:<br>top_img:<br>archives:<br>top :</li></ul></li></ul><hr><h4 id="为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。"><a href="#为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。" class="headerlink" title="为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。"></a>为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。</h4><hr><h1 id="更新博客-1"><a href="#更新博客-1" class="headerlink" title="更新博客-1"></a>更新博客-1</h1><ol><li><p>新建MD文档<br><code>hexo new &quot;名称&quot;</code><br>这样就会在_post文件夹下面生成文档。</p></li><li><p>修改文档相关信息</p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">title: 名称  </span><br><span class="line">date: 时间  </span><br><span class="line">tags:  </span><br><span class="line"> - 标签</span><br><span class="line">categories:  </span><br><span class="line"> - 一级分类  </span><br><span class="line"> - 二级分类  </span><br><span class="line">copyright: 版权  </span><br><span class="line">comments: 评论  </span><br><span class="line">description: 描述  </span><br><span class="line">top_img: 顶部图片  </span><br><span class="line">archives:</span><br><span class="line">top :  置顶</span><br></pre></td></tr></table></figure></li><li><p>编写文档</p><ol><li>插入图片<code>![图片名称](http://图片网址)</code><br>或者 <code>[Google][1].</code><br><code>[1]: http://www.google.com/logo.png</code><br>至于怎么上传图片，我用的两种：<br>-<a href="https://github.com/klesh/fu" target="_blank" rel="noopener">Fu图床</a><br>-<a href="https://github.com/Molunerfinn/PicGo" target="_blank" rel="noopener">PicGo</a></li><li>行内 HTML 元素<br>目前只支持部分段内 HTML 元素效果，包括 <kdb> <b>   <i> <em> <sup> <sub> <br> ，如键位显示使用  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;kbd&gt;Ctrl&lt;/kbd&gt;+&lt;kbd&gt;Alt&lt;/kbd&gt;+&lt;kbd&gt;Del&lt;/kbd&gt; 重启电脑</span><br><span class="line">代码块</span><br><span class="line">使用 &lt;pre&gt;&lt;/pre&gt; 元素同样可以形成代码块</span><br><span class="line">粗斜体</span><br><span class="line">&lt;b&gt; Markdown 在此处同样适用，如 *加粗* &lt;/b&gt;</span><br></pre></td></tr></table></figure></sub></sup></em></i></b></kdb></li></ol></li><li><p>push到github</p></li></ol><hr><p>其实我偷了个懒，用bat命令来实现一键<code>push</code></p><ol><li>首先新建四个bat文件<br><img src="https://i.loli.net/2019/08/08/FLzQx3duZvonKJN.jpg" alt></li><li>编辑文档<br><img src="https://i.loli.net/2019/08/08/HScAghUZuoKQylY.jpg" alt><br>(douban是一个爬豆瓣的工具，不用的话可以去掉，其他命令可以根据这个来设定。)<h1 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h1><iframe src="//player.bilibili.com/player.html?aid=17476125&cid=28541515&page=1" scrolling="no" border="0" width="100%" height="460px" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></li></ol><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="600" height="86" src="//music.163.com/outchain/player?type=2&id=114389&auto=0&height=66"></iframe>]]></content>
+    <content type="html"><![CDATA[<h4 id="为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。"><a href="#为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。" class="headerlink" title="为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。"></a>为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。</h4><hr><h1 id="更新博客-1"><a href="#更新博客-1" class="headerlink" title="更新博客-1"></a>更新博客-1</h1><ol><li><p>新建MD文档<br><code>hexo new &quot;名称&quot;</code><br>这样就会在_post文件夹下面生成文档。</p></li><li><p>修改文档相关信息</p> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">title: 名称  </span><br><span class="line">date: 时间  </span><br><span class="line">tags:  </span><br><span class="line"> - 标签</span><br><span class="line">categories:  </span><br><span class="line"> - 一级分类  </span><br><span class="line"> - 二级分类  </span><br><span class="line">copyright: 版权  </span><br><span class="line">comments: 评论  </span><br><span class="line">description: 描述  </span><br><span class="line">top_img: 顶部图片  </span><br><span class="line">archives:</span><br><span class="line">top :  置顶</span><br></pre></td></tr></table></figure></li><li><p>编写文档</p><ol><li>插入图片<code>![图片名称](http://图片网址)</code><br>或者 <code>[Google][1].</code><br><code>[1]: http://www.google.com/logo.png</code><br>至于怎么上传图片，我用的两种：<br>-<a href="https://github.com/klesh/fu" target="_blank" rel="noopener">Fu图床</a><br>-<a href="https://github.com/Molunerfinn/PicGo" target="_blank" rel="noopener">PicGo</a></li><li>行内 HTML 元素<br>目前只支持部分段内 HTML 元素效果，包括 <kdb> <b>   <i> <em> <sup> <sub> <br> ，如键位显示使用  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;kbd&gt;Ctrl&lt;/kbd&gt;+&lt;kbd&gt;Alt&lt;/kbd&gt;+&lt;kbd&gt;Del&lt;/kbd&gt; 重启电脑</span><br><span class="line">代码块</span><br><span class="line">使用 &lt;pre&gt;&lt;/pre&gt; 元素同样可以形成代码块</span><br><span class="line">粗斜体</span><br><span class="line">&lt;b&gt; Markdown 在此处同样适用，如 *加粗* &lt;/b&gt;</span><br></pre></td></tr></table></figure></sub></sup></em></i></b></kdb></li></ol></li><li><p>push到github</p></li></ol><hr><p>其实我偷了个懒，用bat命令来实现一键<code>push</code></p><ol><li>首先新建四个bat文件<br><img src="https://i.loli.net/2019/08/08/FLzQx3duZvonKJN.jpg" alt></li><li>编辑文档<br><img src="https://i.loli.net/2019/08/08/HScAghUZuoKQylY.jpg" alt><br>(douban是一个爬豆瓣的工具，不用的话可以去掉，其他命令可以根据这个来设定。)<h1 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h1><iframe src="//player.bilibili.com/player.html?aid=17476125&cid=28541515&page=1" scrolling="no" border="0" width="100%" height="460px" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></li></ol><hr><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="600" height="86" src="//music.163.com/outchain/player?type=2&id=114389&auto=0&height=66"></iframe>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;hr&gt;
-&lt;p&gt;title: 日常更新维护1&lt;br&gt;date: 2019-08-08 12:10:06&lt;br&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;格桑平措&lt;/li&gt;
-&lt;li&gt;Hexo&lt;/li&gt;
-&lt;li&gt;Blog&lt;/li&gt;
-&lt;li&gt;md&lt;br&gt;categories:&lt;ul&gt;
-&lt;l
+        &lt;h4 id=&quot;为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。&quot;&gt;&lt;a href=&quot;#为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。&quot; class=&quot;headerlink&quot; title=&quot;为了以后可以更方便的更新博客，特此记录以下自己欠缺的地方。&quot;&gt;&lt;/a
       
     
     </summary>
     
+      <category term="Blog" scheme="http://www.yokiweb.com/categories/Blog/"/>
+    
+      <category term="hexo" scheme="http://www.yokiweb.com/categories/Blog/hexo/"/>
+    
+    
+      <category term="格桑平措" scheme="http://www.yokiweb.com/tags/%E6%A0%BC%E6%A1%91%E5%B9%B3%E6%8E%AA/"/>
+    
+      <category term="Hexo" scheme="http://www.yokiweb.com/tags/Hexo/"/>
+    
+      <category term="Blog" scheme="http://www.yokiweb.com/tags/Blog/"/>
+    
+      <category term="md" scheme="http://www.yokiweb.com/tags/md/"/>
     
   </entry>
   
@@ -67,11 +72,11 @@
       <category term="hexo" scheme="http://www.yokiweb.com/categories/Blog/hexo/"/>
     
     
+      <category term="格桑平措" scheme="http://www.yokiweb.com/tags/%E6%A0%BC%E6%A1%91%E5%B9%B3%E6%8E%AA/"/>
+    
       <category term="海狗" scheme="http://www.yokiweb.com/tags/%E6%B5%B7%E7%8B%97/"/>
     
       <category term="Yoki" scheme="http://www.yokiweb.com/tags/Yoki/"/>
-    
-      <category term="格桑平措" scheme="http://www.yokiweb.com/tags/%E6%A0%BC%E6%A1%91%E5%B9%B3%E6%8E%AA/"/>
     
       <category term="首页" scheme="http://www.yokiweb.com/tags/%E9%A6%96%E9%A1%B5/"/>
     
