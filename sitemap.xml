@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.yokiweb.com/about/index.html</loc>
+    
+    <lastmod>2019-08-08T01:17:44.435Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yokiweb.com/categories/index.html</loc>
+    
+    <lastmod>2019-08-08T01:10:01.036Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.yokiweb.com/gallery/index.html</loc>
     
-    <lastmod>2019-08-07T14:17:44.798Z</lastmod>
+    <lastmod>2019-08-08T01:07:36.160Z</lastmod>
     
   </url>
   
@@ -23,23 +37,9 @@
   </url>
   
   <url>
-    <loc>http://www.yokiweb.com/about/index.html</loc>
-    
-    <lastmod>2019-08-07T08:44:42.758Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.yokiweb.com/schedule/index.html</loc>
     
     <lastmod>2019-08-07T08:44:38.139Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yokiweb.com/categories/index.html</loc>
-    
-    <lastmod>2019-08-07T08:25:45.284Z</lastmod>
     
   </url>
   
