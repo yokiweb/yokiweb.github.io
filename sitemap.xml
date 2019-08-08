@@ -2,30 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.yokiweb.com/gallery/index.html</loc>
+    <loc>http://www.yokiweb.com/schedule/index.html</loc>
     
-    <lastmod>2019-08-08T03:32:46.724Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yokiweb.com/about/index.html</loc>
-    
-    <lastmod>2019-08-08T03:19:50.848Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yokiweb.com/categories/index.html</loc>
-    
-    <lastmod>2019-08-08T01:10:01.036Z</lastmod>
+    <lastmod>2019-08-08T03:53:03.267Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.yokiweb.com/posts/7372dac5.html</loc>
     
-    <lastmod>2019-08-07T10:38:54.917Z</lastmod>
+    <lastmod>2019-08-08T03:51:27.131Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yokiweb.com/tags/index.html</loc>
+    
+    <lastmod>2019-08-08T03:50:26.102Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yokiweb.com/gallery/index.html</loc>
+    
+    <lastmod>2019-08-08T03:49:01.977Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yokiweb.com/categories/index.html</loc>
+    
+    <lastmod>2019-08-08T03:48:53.601Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yokiweb.com//404.html</loc>
+    
+    <lastmod>2019-08-08T03:48:18.173Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yokiweb.com/about/index.html</loc>
+    
+    <lastmod>2019-08-08T03:47:55.928Z</lastmod>
     
   </url>
   
@@ -33,27 +54,6 @@
     <loc>http://www.yokiweb.com/posts/7f5ds4f5.html</loc>
     
     <lastmod>2019-08-07T10:35:06.340Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yokiweb.com/schedule/index.html</loc>
-    
-    <lastmod>2019-08-07T08:44:38.139Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yokiweb.com//404.html</loc>
-    
-    <lastmod>2019-06-25T11:24:13.868Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yokiweb.com/tags/index.html</loc>
-    
-    <lastmod>2019-06-23T06:05:17.972Z</lastmod>
     
   </url>
   
