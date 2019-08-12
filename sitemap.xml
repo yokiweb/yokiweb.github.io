@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.yokiweb.com/gallery/index.html</loc>
+    
+    <lastmod>2019-08-08T11:09:09.681Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.yokiweb.com/about/index.html</loc>
     
     <lastmod>2019-08-08T07:58:11.978Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://www.yokiweb.com/tags/index.html</loc>
     
     <lastmod>2019-08-08T03:50:26.102Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yokiweb.com/gallery/index.html</loc>
-    
-    <lastmod>2019-08-08T03:49:01.977Z</lastmod>
     
   </url>
   
