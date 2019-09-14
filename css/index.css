@@ -1556,7 +1556,7 @@ footer.footer-bg {
 }
 #site-title,
 #site-sub-title {
-  color: #eee;
+  color: #f00056;
   text-align: center;
   text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
   line-height: 1.5;
@@ -1566,7 +1566,7 @@ footer.footer-bg {
   font-size: 1.3rem;
 }
 #site-sub-title {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 .scroll-down {
   position: absolute;
@@ -1735,7 +1735,7 @@ footer.footer-bg {
 }
 #page-header.fixed a,
 #page-header.fixed #site-name {
-  color: #3b3a3a;
+  color: #4c221b;
   text-shadow: none;
 }
 #page-header.fixed .menu-icon-first,
@@ -1750,7 +1750,7 @@ footer.footer-bg {
 #page-header.fixed .menu-icon-first #site-name:hover,
 #page-header.fixed .menu-icon-second #site-name:hover,
 #page-header.fixed .menu-icon-third #site-name:hover {
-  color: #fa625f;
+  color: #4c221b;
 }
 #page-header.visible {
   -webkit-transform: translate3d(0, 100%, 0);
@@ -1760,7 +1760,7 @@ footer.footer-bg {
   transform: translate3d(0, 100%, 0);
 }
 #page-header #site-name {
-  text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
+  text-shadow: 0.1rem 0.1rem 0.2rem #ff0097;
   font-weight: bold;
   cursor: pointer;
 }
@@ -1770,6 +1770,7 @@ footer.footer-bg {
   }
   #site-sub-title {
     font-size: 1.2rem;
+    color: #ff0097;
   }
 }
 @media screen and (max-width: 768px) {
