@@ -1,7 +1,14 @@
 User-agent: * Allow: /
-Allow: /archives/
+* Allow: /archives/
+* Allow: /posts/
+* Allow: /navigation/
+* Allow: /archives/
+* Allow: /about/
+* Allow: /tags/
+* Allow: /books/
+* Allow: /movies/
+* Allow: /categories/
 Disallow: /vendors/
-Disallow: /categories/
 
 
 Sitemap: http://yokiweb.top/sitemap.xml
