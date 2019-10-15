@@ -13,4 +13,3 @@ Disallow: /vendors/
 
 Sitemap: http://yokiweb.top/sitemap.xml
 Sitemap: http://yokiweb.top/baidusitemap.xml
-Sitemap: http://yokiweb.top/atom.xml
