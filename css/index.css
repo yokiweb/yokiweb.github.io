@@ -2117,6 +2117,10 @@ blockquote footer cite:before {
   padding: 0 4px;
   vertical-align: text-bottom;
 }
+#footer-wrap .pai-icon {
+  padding: 0 4px;
+  vertical-align: middle;
+}
 #nav {
   position: relative;
   margin-bottom: 1rem;
